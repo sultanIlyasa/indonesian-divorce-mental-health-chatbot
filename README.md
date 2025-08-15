@@ -1,4 +1,4 @@
-# 🧠 Chatbot Kesehatan Mental Perceraian  
+# 🧠 Indonesian Divorce Mental Health Chatbot
 **Transformer from Scratch – TensorFlow + Gradio**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)  
