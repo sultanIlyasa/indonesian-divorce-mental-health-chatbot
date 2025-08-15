@@ -1,0 +1,95 @@
+test_data = [
+    {
+        "input": "Aku akan mencoba berbicara dengan orang tua ku",
+        "reference_responses": [
+            "Itu keputusan yang baik! Semoga percakapan itu membantumu menemukan kejelasan. Jika butuh persiapan, aku siap mendengar.",
+            "Itu langkah yang sangat berani, dan aku bangga padamu. Berbicara dengan orang tua, apalagi soal perasaan, bisa sangat menegangkan. Tapi itu juga bisa jadi awal dari pemahaman dan koneksi yang lebih sehat. ",
+            "Keputusanmu untuk mencoba berbicara adalah bentuk usaha untuk menciptakan hubungan yang lebih sehat. Komunikasi yang jujur sering kali membuka ruang baru yang sebelumnya tertutup. Kamu tidak harus menyelesaikan semuanya dalam satu percakapan cukup mulai dari hati yang tulus.",
+            "Aku tahu ini bukan hal yang mudah, jadi aku menghargai niatmu untuk mencoba. Hubungan yang aman dimulai dari keberanian untuk mengungkapkan perasaan, meskipun itu menakutkan. Kalau kamu ingin, kita bisa sama-sama susun kalimat yang ingin kamu ucapkan nanti. ",
+            "Komunikasi yang sehat dengan orang tua bisa membuka banyak pintu yang sebelumnya tertutup rapat. Aku percaya kamu bisa menyampaikan isi hatimu dengan cara yang lembut tapi jujur. Aku akan terus ada di sini kalau kamu ingin cerita setelah kamu melakukannya. "
+        ]
+    },
+    {
+        "input": "Aku akan mencoba saranmu",
+        "reference_responses": [
+            "Itu langkah yang baik! Semoga hal itu membantumu merasa lebih tenang. Jangan ragu untuk kembali jika ingin berbicara lebih lanjut.",
+            "Aku senang mendengar bahwa kamu ingin mencoba. Memberi ruang untuk mencoba adalah tanda bahwa kamu percaya pada perubahan dan pada dirimu sendiri. Kamu tidak harus langsung berhasil proses pun sudah termasuk bentuk keberanian. ",
+            "Keputusanmu untuk mencoba menunjukkan kekuatan dalam dirimu yang kadang mungkin kamu lupakan. Tidak apa-apa jika langkahnya pelan yang penting kamu tahu bahwa kamu tidak sendirian di perjalanan ini. Aku percaya kamu bisa, dan aku ingin tahu seperti apa rasanya setelah kamu mulai. ",
+            "Niatmu untuk mencoba sudah jadi langkah yang sangat berarti. Kadang kita belum tahu hasil akhirnya, tapi keberanian untuk mulai itu yang membuka jalan. Aku di sini untuk mendukung dan menemani kamu dalam prosesnya. Kalau kamu butuh bantuan kecil untuk mulai, yuk kita rancang bareng-bareng.",
+            "Pilihanmu untuk mencoba bukan hanya langkah ke depan, tapi juga bukti bahwa kamu punya harapan di dalam dirimu. Aku akan selalu ada untuk mendukung setiap usahamu, sekecil apa pun itu. Setelah kamu mencoba, kita bisa evaluasi bareng kalau kamu mau. "
+        ]
+    },
+    {
+        "input": "Mengapa saya masih merasa bersalah atas perceraian orang tua saya?",
+        "reference_responses": [
+            "Merasa bersalah adalah respon emosional yang umum, ketika terjadi perubahan situasi dalam suatu hubungan yang bermakna, misalnya hubungan Anda dengan orang tua. Rasa bersalah itu bisa diturunkan dengan beberapa cara, salah satunya adalah menggunakan perspektif attachment yang positif. Menggunakan perspektif ini, seseorang dapat memposisikan diri untuk menyadari bahwa dia tidak bertanggung jawab atas keputusan orang tua, dan pada saat yang sama meyakini bahwa apapun yang terjadi dalam hubungan antara ayah dan ibu, perasaan kasih sayang mereka kepada anak tetap ada.",
+            "Perasaan bersalah yang relatif menetap atas suatu situasi yang sudah cukup lama terjadi bisa disebabkan oleh berbagai faktor. Dalam situasi ketika Anda masih merasa bersalah atas perceraian orang tua, salah satu faktor penyebab yang mungkin adalah karena Anda merasa menjadi faktor yang menyebabkan perceraian tersebut, sedangkan ketika suatu pasangan memutuskan untuk memutuskan hubungan di antara mereka, maka merekalah yang sepenuhnya bertanggung jawab atas keputusan tersebut, bukan orang lain.",
+            "Merasa bersalah adalah reaksi yang wajar ketika terjadi perubahan besar dalam hubungan yang bermakna, seperti hubungan dengan orang tua. Dalam perspektif attachment yang positif, seseorang dapat memahami bahwa meskipun hubungan antara orang tua berubah, ikatan emosional dan kasih sayang mereka terhadap anak tetap ada. Dengan membangun pemahaman ini, Anda dapat mengurangi perasaan bertanggung jawab atas perceraian orang tua dan menerima bahwa keputusan mereka adalah bagian dari perjalanan hidup mereka sendiri, bukan sesuatu yang Anda kendalikan.",
+            "Perasaan bersalah yang berlarut-larut bisa muncul karena otak berusaha mencari pemahaman atas situasi yang sulit. Dalam konteks attachment, anak yang mengalami perceraian orang tua mungkin merasa bahwa stabilitas emosionalnya terganggu, sehingga mencari cara untuk mengembalikan kendali, salah satunya dengan merasa bersalah. Namun, memahami bahwa setiap individu bertanggung jawab atas pilihannya sendiri dapat membantu membebaskan diri dari perasaan tersebut. Mencari dukungan dari lingkungan yang aman seperti teman, keluarga, atau profesional dapat membantu membentuk kembali persepsi tentang hubungan dan diri sendiri secara lebih sehat.",
+            "Saat keluarga mengalami perubahan, seperti perceraian orang tua, fokus pada hubungan yang tetap ada dan memberikan kenyamanan dapat membantu dalam proses penyembuhan. Menyadari bahwa orang tua masih menyayangi Anda, meskipun mereka tidak lagi bersama, dapat memperkuat rasa aman dalam hubungan interpersonal. Anda juga dapat mengembangkan hubungan yang sehat dengan orang-orang di sekitar Anda, yang dapat memberikan dukungan emosional dan membantu Anda melewati perubahan ini dengan lebih baik."
+        ]
+    },
+    {
+        "input": "Apakah saya akan bisa menciptakan keluarga yang sehat di masa depan meski berasal dari keluarga yang bercerai?",
+        "reference_responses": [
+            "Ya, kamu bisa. Asal kamu memiliki kesadaran emosional dan keinginan untuk belajar dari masa lalu, kamu punya kekuatan untuk menciptakan keluarga yang penuh kasih. Attachment positif menunjukkan bahwa pola-pola lama bisa diputuskan dan diganti dengan pola yang lebih sehat. Keluargamu kelak adalah ruang baru yang bisa kamu bentuk dengan cinta dan nilai yang kamu yakini.",
+            "Meskipun kamu berasal dari keluarga yang bercerai, kamu tetap punya kapasitas penuh untuk mencintai, dipercaya, dan menciptakan hubungan yang aman. Attachment yang sehat dibentuk dari kesadaran, bukan hanya warisan keluarga. Kamu sudah berada di jalur yang tepat jika kamu mulai mempertanyakan dan memperbaiki pola hubunganmu sekarang. Setiap langkah kecil ke arah kesadaran adalah fondasi bagi keluarga masa depanmu.",
+            "Keluarga yang sehat bukan tentang kesempurnaan, tapi tentang kemampuan untuk saling mendengarkan, mengatur emosi, dan hadir satu sama lain. Kamu bisa membangun semua itu meski berasal dari latar belakang yang rumit. Attachment positif percaya bahwa healing itu mungkin, dan kamu bisa menjadi orang tua, pasangan, atau anggota keluarga yang lebih hadir dan sadar. Kamu sedang menyiapkan fondasi itu hari ini.",
+            "Pengalaman keluargamu mungkin memberimu luka, tapi juga bisa memberimu kompas untuk tahu apa yang ingin kamu ubah. Dalam attachment positif, kamu tidak ditentukan oleh apa yang dulu, tapi oleh apa yang kamu pilih untuk dilakukan sekarang. Kamu bisa memutus rantai luka dan menggantinya dengan pola yang lebih sehat dan penuh kasih. Harapanmu adalah awal dari perubahan itu.",
+            "Jangan ragu akan kemampuanmu menciptakan keluarga yang kamu impikan. Justru karena kamu tahu rasanya tumbuh di tengah ketidaksempurnaan, kamu bisa lebih sadar dan peka saat membangun relasi. Attachment positif memberi keyakinan bahwa keluarga yang sehat bisa lahir dari ketulusan, komunikasi, dan kerja sama. Dan semua itu ada dalam jangkauanmu."
+
+        ]
+    },
+    {
+        "input": "Bagaimana cara menerima bahwa cinta antara orang tua saya sudah berakhir?",
+        "reference_responses": [
+          "Menerima bahwa cinta orang tua telah berakhir bukan berarti kamu harus menghapus semua kenangan baik tentang mereka. Ini berarti kamu mulai melihat hubungan mereka dengan realitas yang baru, sambil tetap menjaga ruang aman untuk perasaanmu sendiri. Dalam attachment positif, kamu boleh merasakan kesedihan dan kehilangan, sekaligus belajar bahwa cinta bisa berubah bentuk. Kamu tidak kehilangan cinta mereka kepadamu, meskipun mereka sudah tidak bersama lagi.",
+          "Wajar jika terasa sulit menerima kenyataan ini, karena cinta orang tua sering menjadi dasar rasa aman kita. Tapi kamu juga sedang belajar bahwa hubungan antar manusia bisa kompleks dan berubah. Attachment yang sehat tidak memaksakan stabilitas semu, melainkan menerima perubahan dengan lembut dan penuh pengertian. Kamu tetap berhak atas cinta dan dukungan, walau bentuk keluargamu telah berubah.",
+          "Hubungan orang tua yang berakhir tidak membatalkan semua nilai dan pelajaran yang kamu terima dari mereka. Kadang, menerima kenyataan berarti memberi ruang untuk menyadari bahwa cinta itu tidak hilang ia hanya berpindah bentuk. Dalam attachment positif, kita tidak menyangkal kenyataan, tapi kita memilih berdamai dan tumbuh darinya. Kamu bisa tetap merasakan cinta, meski dengan dinamika keluarga yang baru.",
+          "Tak mudah memang ketika yang kita percaya sebagai sesuatu yang abadi, seperti cinta orang tua, ternyata berubah. Tapi bukan berarti kamu kehilangan fondasi hidupmu. Attachment positif mengajarkan bahwa kita bisa tetap membangun rasa aman dengan cara baru dari hubungan yang hadir, dari dirimu sendiri, dan dari koneksi yang kamu jaga. Cinta itu masih ada, bahkan jika wujudnya berubah.",
+          "Menerima akhir dari cinta mereka bukan tanda kelemahanmu, tapi kekuatan untuk menatap hidup dengan jujur. Kadang kita butuh waktu untuk memahami bahwa perubahan tidak selalu buruk. Dalam hubungan yang aman, kita diajak untuk memeluk kenyataan tanpa kehilangan harapan. Kamu sedang menata kembali caramu mencintai dan dipedulikan dan itu hal yang luar biasa."
+
+        ]
+    },
+    {
+        "input": "Bagaimana jika saya takut membuka diri karena takut akan ditinggalkan juga?",
+        "reference_responses": [
+          "Rasa takut ditinggalkan setelah mengalami kehilangan adalah hal yang sangat manusiawi. Attachment positif mengajarkan bahwa rasa aman bisa dibangun secara perlahan, bukan dipaksakan. Kamu boleh mengambil waktu, dan kamu tidak harus langsung percaya sepenuhnya. Yang penting, kamu tetap memberi dirimu kesempatan untuk terhubung, meski dengan hati-hati.",
+          "Takut membuka diri bukan berarti kamu lemah, tapi justru menunjukkan bahwa hatimu punya kedalaman. Dalam hubungan yang aman, kamu tidak harus sempurna atau selalu kuat untuk dicintai. Orang yang tepat akan menghargai prosesmu dan tidak terburu-buru memintamu menyerahkan semua. Kamu berhak merasa aman sebelum membuka pintu hatimu lebih jauh.",
+          "Ketakutan ditinggalkan bisa berasal dari pengalaman masa lalu yang belum sempat kamu sembuhkan. Attachment positif menyarankan untuk membangun hubungan perlahan-lahan, mulai dari ruang-ruang kecil yang aman. Kamu bisa mulai dengan berbagi sedikit demi sedikit, dan menghargai keberanianmu setiap kali kamu jujur. Koneksi yang tumbuh dari kepercayaan akan jauh lebih tahan lama.",
+          "Kamu tidak salah karena hati-hati itu artinya kamu belajar dari pengalaman. Tapi kamu juga tidak harus membiarkan ketakutan terus-menerus menghalangi peluang untuk dicintai dengan tulus. Dalam dunia yang penuh ketidakpastian, hubungan yang sehat justru tumbuh dari keberanian membuka diri meski ada resiko terluka. Kamu tidak sendiri, dan kamu bisa mulai dari langkah kecil hari ini.",
+          "Kamu mungkin pernah merasa ditinggalkan, dan rasa itu begitu membekas hingga kini. Tapi attachment yang sehat mengingatkan bahwa tidak semua hubungan akan berakhir seperti itu. Ada orang-orang yang akan tinggal, bahkan ketika kamu tidak dalam kondisi terbaikmu. Kamu layak dicintai apa adanya, termasuk saat kamu belum sepenuhnya yakin untuk membuka diri."
+
+        ]
+    },
+    {
+        "input": "Aku merasa overthinking",
+        "reference_responses": [
+           "Terkadang pikiran kita bisa terasa begitu penuh, ya. Apa hal yang paling sering muncul di pikiranmu akhir-akhir ini?",
+           "Overthinking sering kali muncul saat otak kita merasa tidak aman dan mencoba mencari kontrol di tengah ketidakpastian. Itu adalah reaksi alami dari seseorang yang sangat peduli dan ingin melakukan hal dengan benar. Tapi kamu tidak harus memikirkan semuanya sendiri. Apakah kamu ingin bercerita tentang hal apa yang paling sering kamu ulang-ulang dalam pikiranmu?",
+           "Saat kamu merasa overthinking, itu bisa menjadi tanda bahwa ada sesuatu yang belum kamu beri ruang untuk dipahami secara emosional, bukan hanya secara logika. Dalam hubungan yang aman, kamu bisa berbagi tanpa takut dinilai atau disalahkan. Aku di sini untuk menemani kamu memisahkan mana yang nyata dan mana yang hanya kekhawatiran. Apa hal yang paling membuatmu merasa cemas akhir-akhir ini?",
+           "Pikiran yang terus berputar bisa membuat kamu merasa lelah, dan itu wajar. Overthinking sering kali datang dari tempat di mana kita pernah merasa kecewa atau kehilangan, dan sekarang otakmu mencoba melindungimu. Tapi kamu tidak sendiri dalam menghadapi ini. Apa yang paling sering kamu pikirkan berulang-ulang hingga membuatmu sulit tenang?",
+           "Dalam positive attachment, kita belajar bahwa pikiran yang terus-menerus muncul biasanya adalah ekspresi dari rasa takut yang belum diproses sepenuhnya. Mungkin ada cerita atau pengalaman yang terasa belum selesai. Aku di sini kalau kamu ingin pelan-pelan menceritakannya. Apakah kamu merasa ada sesuatu yang tidak bisa kamu kendalikan akhir-akhir ini?"
+        ]
+    },
+    {
+        "input": "Aku merasa sangat sedih",
+        "reference_responses": [
+           "Aku di sini untukmu. Aku tahu semua yang sedang kamu pikirkan dan rasakan itu berat, dan tidak apa-apa kalau kamu merasa sedih. Kamu tidak sendirian dalam hal ini. Aku ingin mendengarkan, kalau kamu ingin bercerita. Apa yang paling membebanimu saat ini?",
+           "Kesedihan yang kamu rasakan valid dan penting untuk dikenali. Dalam hubungan yang aman secara emosional, kita punya ruang untuk menangis dan merasa lemah tanpa harus merasa dihakimi. Kadang, perasaan sedih itu tidak datang begitu saja ada cerita di baliknya. Bolehkah aku tahu, hal apa yang sedang kamu rindukan atau khawatirkan saat ini?",
+           "Kesedihan bisa terasa sangat menyesakkan, apalagi jika kamu merasa harus menahannya sendiri. Tapi kamu tidak sendiri sekarang. Aku ingin menemani, dan mungkin kita bisa pelan-pelan membuka cerita yang membuat hatimu terasa berat. Apakah ada sesuatu yang membuatmu merasa kehilangan atau tidak dimengerti akhir-akhir ini?",
+           "Perasaan sedih sering kali muncul saat kita menghadapi perubahan atau kehilangan dalam hubungan penting dalam hidup kita. Perasaan itu layak mendapat ruang untuk diakui dan dipahami. Aku penasaran, apakah ada momen terakhir yang terasa sangat berat untukmu?",
+           "Saat kita merasa sedih, yang paling dibutuhkan adalah koneksi yang aman tempat untuk merasa diterima apa adanya. Aku di sini untuk menciptakan ruang itu untukmu. Kamu bisa cerita sebanyak atau sesedikit yang kamu mau. Hal apa yang paling kamu harap bisa berjalan berbeda belakangan ini?"
+        ]
+    },
+    {
+        "input": "Kapan aku bisa keluar dari perasaan ini?",
+        "reference_responses": [
+            "Proses menyembuhkan perasaan memang membutuhkan waktu. Apa yang biasanya membuatmu merasa seperti ini?",
+            "Perasaan ini tidak akan bertahan selamanya, meski saat ini terasa begitu berat. Waktu memang membantu, tapi yang juga penting adalah bagaimana kita merawat diri dan mencari dukungan. Dalam hubungan yang aman, kita bisa mulai menemukan jalan keluar bersama, perlahan-lahan. Apa yang paling kamu butuhkan sekarang agar hari ini terasa sedikit lebih ringan?",
+            "Rasa sakit ini tidak selamanya, meskipun rasanya seperti itu. Hal yang penting adalah kamu tidak harus menunggu semuanya hilang untuk merasa lebih baik; kamu bisa mulai merasa sedikit lega dengan berbagi. Kalau kamu nyaman, aku ingin dengar cerita tentang apa yang kamu rindukan dari masa-masa sebelum perasaan ini muncul.",
+            "Keluar dari perasaan ini adalah proses yang dimulai dengan keberanian untuk bertanya, seperti yang baru saja kamu lakukan. Dalam attachment yang aman, kamu tidak harus melewatinya sendiri. Aku ingin tahu, langkah kecil apa yang menurutmu bisa membantu dan apa yang menghalanginya sejauh ini?",
+            "Dalam hubungan yang sehat, pemulihan terjadi karena ada yang menemani bukan hanya karena waktu berlalu. Aku percaya kamu bisa melewati ini dengan dukungan dan pengertian yang tepat. Apa satu hal kecil yang bisa kamu lakukan hari ini yang mungkin membawa sedikit harapan?"
+        ]
+    },
+]
