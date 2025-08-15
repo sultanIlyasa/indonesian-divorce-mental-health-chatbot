@@ -41,7 +41,6 @@ Data → Tokenizer → Positional Encoding → Encoder Layers → Decoder Layers
 - git clone https://github.com/yourusername/mental-health-chatbot-transformer.git
 - cd mental-health-chatbot-transformer
 - pip install -r requirements.txt
----
 
 ---
 ## Usage
