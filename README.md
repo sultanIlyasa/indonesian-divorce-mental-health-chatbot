@@ -47,3 +47,23 @@ Data → Tokenizer → Positional Encoding → Encoder Layers → Decoder Layers
 ```text
 python app.py
 ```
+
+---
+## 📂 Dataset
+- Size: 525 conversational pairs
+- Categories: Opening statements, parental context, termination
+- Based on: John Bowlby’s Positive Attachment Theory
+- Includes professional help triggers for high-risk cases
+
+---
+## ⚙ How It Works
+- User input → tokenized & padded → START/END tokens added
+- Transformer model generates output via autoregressive decoding
+- Masking ensures no future token or padding leakage in attention
+- Final output is detokenized back into natural language
+
+---
+## Evaluation
+- BLEU Score – Token-level similarity with reference responses
+- METEOR Score – Semantic similarity at word-level
+- Qualitative Review – Checked for empathy & context accuracy
