@@ -33,3 +33,18 @@ The chatbot provides empathetic support for **children affected by parental divo
 ```text
 Data → Tokenizer → Positional Encoding → Encoder Layers → Decoder Layers
 → Multi-Head Attention → Dense Output → Response Generation
+
+```
+
+---
+## Installation
+- git clone https://github.com/yourusername/mental-health-chatbot-transformer.git
+- cd mental-health-chatbot-transformer
+- pip install -r requirements.txt
+---
+
+---
+## Usage
+```text
+python app.py
+```
